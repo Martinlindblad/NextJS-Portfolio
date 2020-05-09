@@ -12,14 +12,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.3.1",
+    "node-sass": "^4.13.1",
+    "parallax-js": "^3.1.0",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "swiper": "^5.3.6"
   },
   "easywebSettings": {
-    "clientID": "OAuth2.u000.h000",
-    "clientSecret": "secret",
-    "clientURL": "https://omega.easyweb.se/extapi/0000"
+    "clientID": "OAuth2.u2786.h251",
+    "clientSecret": "martin",
+    "clientURL": "https://omega.easyweb.se/extapi/2786"
   }
 }

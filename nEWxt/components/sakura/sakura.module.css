@@ -1,0 +1,1115 @@
+.sakuraContainer {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -5%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(1) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 0.45s;
+          animation-delay: 0.45s;
+  -webkit-transform: translateX(101px) rotate(103px);
+          transform: translateX(101px) rotate(103px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(2) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 0.9s;
+          animation-delay: 0.9s;
+  -webkit-transform: translateX(102px) rotate(106px);
+          transform: translateX(102px) rotate(106px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(3) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 1.35s;
+          animation-delay: 1.35s;
+  -webkit-transform: translateX(103px) rotate(109px);
+          transform: translateX(103px) rotate(109px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(4) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 1.8s;
+          animation-delay: 1.8s;
+  -webkit-transform: translateX(104px) rotate(112px);
+          transform: translateX(104px) rotate(112px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(5) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 2.25s;
+          animation-delay: 2.25s;
+  -webkit-transform: translateX(105px) rotate(115px);
+          transform: translateX(105px) rotate(115px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(6) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 2.7s;
+          animation-delay: 2.7s;
+  -webkit-transform: translateX(106px) rotate(118px);
+          transform: translateX(106px) rotate(118px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(7) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 3.15s;
+          animation-delay: 3.15s;
+  -webkit-transform: translateX(107px) rotate(121px);
+          transform: translateX(107px) rotate(121px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(8) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 3.6s;
+          animation-delay: 3.6s;
+  -webkit-transform: translateX(108px) rotate(124px);
+          transform: translateX(108px) rotate(124px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(9) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 4.05s;
+          animation-delay: 4.05s;
+  -webkit-transform: translateX(109px) rotate(127px);
+          transform: translateX(109px) rotate(127px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(10) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 4.5s;
+          animation-delay: 4.5s;
+  -webkit-transform: translateX(110px) rotate(130px);
+          transform: translateX(110px) rotate(130px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(11) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 4.95s;
+          animation-delay: 4.95s;
+  -webkit-transform: translateX(111px) rotate(133px);
+          transform: translateX(111px) rotate(133px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(12) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 5.4s;
+          animation-delay: 5.4s;
+  -webkit-transform: translateX(112px) rotate(136px);
+          transform: translateX(112px) rotate(136px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(13) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 5.85s;
+          animation-delay: 5.85s;
+  -webkit-transform: translateX(113px) rotate(139px);
+          transform: translateX(113px) rotate(139px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(14) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 6.3s;
+          animation-delay: 6.3s;
+  -webkit-transform: translateX(114px) rotate(142px);
+          transform: translateX(114px) rotate(142px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(15) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 6.75s;
+          animation-delay: 6.75s;
+  -webkit-transform: translateX(115px) rotate(145px);
+          transform: translateX(115px) rotate(145px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(16) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 7.2s;
+          animation-delay: 7.2s;
+  -webkit-transform: translateX(116px) rotate(148px);
+          transform: translateX(116px) rotate(148px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(17) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 7.65s;
+          animation-delay: 7.65s;
+  -webkit-transform: translateX(117px) rotate(151px);
+          transform: translateX(117px) rotate(151px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(18) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 8.1s;
+          animation-delay: 8.1s;
+  -webkit-transform: translateX(118px) rotate(154px);
+          transform: translateX(118px) rotate(154px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(19) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 8.55s;
+          animation-delay: 8.55s;
+  -webkit-transform: translateX(119px) rotate(157px);
+          transform: translateX(119px) rotate(157px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(20) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 9s;
+          animation-delay: 9s;
+  -webkit-transform: translateX(120px) rotate(160px);
+          transform: translateX(120px) rotate(160px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(21) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 9.45s;
+          animation-delay: 9.45s;
+  -webkit-transform: translateX(121px) rotate(163px);
+          transform: translateX(121px) rotate(163px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(22) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 9.9s;
+          animation-delay: 9.9s;
+  -webkit-transform: translateX(122px) rotate(166px);
+          transform: translateX(122px) rotate(166px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(23) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 10.35s;
+          animation-delay: 10.35s;
+  -webkit-transform: translateX(123px) rotate(169px);
+          transform: translateX(123px) rotate(169px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(24) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 10.8s;
+          animation-delay: 10.8s;
+  -webkit-transform: translateX(124px) rotate(172px);
+          transform: translateX(124px) rotate(172px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(25) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 11.25s;
+          animation-delay: 11.25s;
+  -webkit-transform: translateX(125px) rotate(175px);
+          transform: translateX(125px) rotate(175px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(26) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 11.7s;
+          animation-delay: 11.7s;
+  -webkit-transform: translateX(126px) rotate(178px);
+          transform: translateX(126px) rotate(178px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(27) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 12.15s;
+          animation-delay: 12.15s;
+  -webkit-transform: translateX(127px) rotate(181px);
+          transform: translateX(127px) rotate(181px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(28) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 12.6s;
+          animation-delay: 12.6s;
+  -webkit-transform: translateX(128px) rotate(184px);
+          transform: translateX(128px) rotate(184px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(29) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 13.05s;
+          animation-delay: 13.05s;
+  -webkit-transform: translateX(129px) rotate(187px);
+          transform: translateX(129px) rotate(187px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(30) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 13.5s;
+          animation-delay: 13.5s;
+  -webkit-transform: translateX(130px) rotate(190px);
+          transform: translateX(130px) rotate(190px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(31) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 13.95s;
+          animation-delay: 13.95s;
+  -webkit-transform: translateX(131px) rotate(193px);
+          transform: translateX(131px) rotate(193px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(32) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 14.4s;
+          animation-delay: 14.4s;
+  -webkit-transform: translateX(132px) rotate(196px);
+          transform: translateX(132px) rotate(196px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(33) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 14.85s;
+          animation-delay: 14.85s;
+  -webkit-transform: translateX(133px) rotate(199px);
+          transform: translateX(133px) rotate(199px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(34) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 15.3s;
+          animation-delay: 15.3s;
+  -webkit-transform: translateX(134px) rotate(202px);
+          transform: translateX(134px) rotate(202px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(35) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 15.75s;
+          animation-delay: 15.75s;
+  -webkit-transform: translateX(135px) rotate(205px);
+          transform: translateX(135px) rotate(205px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(36) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 16.2s;
+          animation-delay: 16.2s;
+  -webkit-transform: translateX(136px) rotate(208px);
+          transform: translateX(136px) rotate(208px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(37) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 16.65s;
+          animation-delay: 16.65s;
+  -webkit-transform: translateX(137px) rotate(211px);
+          transform: translateX(137px) rotate(211px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(38) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 17.1s;
+          animation-delay: 17.1s;
+  -webkit-transform: translateX(138px) rotate(214px);
+          transform: translateX(138px) rotate(214px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(39) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 17.55s;
+          animation-delay: 17.55s;
+  -webkit-transform: translateX(139px) rotate(217px);
+          transform: translateX(139px) rotate(217px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(40) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 18s;
+          animation-delay: 18s;
+  -webkit-transform: translateX(140px) rotate(220px);
+          transform: translateX(140px) rotate(220px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(41) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 18.45s;
+          animation-delay: 18.45s;
+  -webkit-transform: translateX(141px) rotate(223px);
+          transform: translateX(141px) rotate(223px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(42) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 18.9s;
+          animation-delay: 18.9s;
+  -webkit-transform: translateX(142px) rotate(226px);
+          transform: translateX(142px) rotate(226px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(43) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 19.35s;
+          animation-delay: 19.35s;
+  -webkit-transform: translateX(143px) rotate(229px);
+          transform: translateX(143px) rotate(229px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(44) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 19.8s;
+          animation-delay: 19.8s;
+  -webkit-transform: translateX(144px) rotate(232px);
+          transform: translateX(144px) rotate(232px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(45) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 20.25s;
+          animation-delay: 20.25s;
+  -webkit-transform: translateX(145px) rotate(235px);
+          transform: translateX(145px) rotate(235px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(46) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 20.7s;
+          animation-delay: 20.7s;
+  -webkit-transform: translateX(146px) rotate(238px);
+          transform: translateX(146px) rotate(238px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(47) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 21.15s;
+          animation-delay: 21.15s;
+  -webkit-transform: translateX(147px) rotate(241px);
+          transform: translateX(147px) rotate(241px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(48) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 21.6s;
+          animation-delay: 21.6s;
+  -webkit-transform: translateX(148px) rotate(244px);
+          transform: translateX(148px) rotate(244px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(49) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 22.05s;
+          animation-delay: 22.05s;
+  -webkit-transform: translateX(149px) rotate(247px);
+          transform: translateX(149px) rotate(247px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(50) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 22.5s;
+          animation-delay: 22.5s;
+  -webkit-transform: translateX(150px) rotate(250px);
+          transform: translateX(150px) rotate(250px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(51) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 22.95s;
+          animation-delay: 22.95s;
+  -webkit-transform: translateX(151px) rotate(253px);
+          transform: translateX(151px) rotate(253px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(52) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 23.4s;
+          animation-delay: 23.4s;
+  -webkit-transform: translateX(152px) rotate(256px);
+          transform: translateX(152px) rotate(256px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(53) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 23.85s;
+          animation-delay: 23.85s;
+  -webkit-transform: translateX(153px) rotate(259px);
+          transform: translateX(153px) rotate(259px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(54) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 24.3s;
+          animation-delay: 24.3s;
+  -webkit-transform: translateX(154px) rotate(262px);
+          transform: translateX(154px) rotate(262px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(55) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 24.75s;
+          animation-delay: 24.75s;
+  -webkit-transform: translateX(155px) rotate(265px);
+          transform: translateX(155px) rotate(265px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(56) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 25.2s;
+          animation-delay: 25.2s;
+  -webkit-transform: translateX(156px) rotate(268px);
+          transform: translateX(156px) rotate(268px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(57) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 25.65s;
+          animation-delay: 25.65s;
+  -webkit-transform: translateX(157px) rotate(271px);
+          transform: translateX(157px) rotate(271px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(58) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 26.1s;
+          animation-delay: 26.1s;
+  -webkit-transform: translateX(158px) rotate(274px);
+          transform: translateX(158px) rotate(274px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(59) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 26.55s;
+          animation-delay: 26.55s;
+  -webkit-transform: translateX(159px) rotate(277px);
+          transform: translateX(159px) rotate(277px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-of-type(60) {
+  background: #ffb7c5;
+  position: absolute;
+  top: 0;
+  width: 8px;
+  height: 10px;
+  border-radius: 10px 0;
+  margin: 1%;
+  opacity: 0;
+  z-index: -1;
+  -webkit-animation: glow 12s ease-in;
+  animation: glow 12s ease-in;
+  -webkit-animation-delay: 27s;
+          animation-delay: 27s;
+  -webkit-transform: translateX(160px) rotate(280px);
+          transform: translateX(160px) rotate(280px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-child(4n-7) {
+  -webkit-filter: blur(1px);
+          filter: blur(1px);
+}
+
+.sakuraContainer .sakuraLeaf:nth-child(3n-7) {
+  background: #d498a3;
+}
+
+@-webkit-keyframes glow {
+  from {
+    -webkit-box-shadow: 0 0 10px #fff, 0 0 20px  #ffb7c5;
+            box-shadow: 0 0 10px #fff, 0 0 20px  #ffb7c5;
+    top: 0;
+    opacity: 1;
+  }
+  to {
+    -webkit-box-shadow: 0 0 20px #fff, 0 0 30px #ffb7c5;
+            box-shadow: 0 0 20px #fff, 0 0 30px #ffb7c5;
+    top: 100%;
+    -webkit-transform: translateX(-400px) rotate(180deg);
+            transform: translateX(-400px) rotate(180deg);
+  }
+}
+/*# sourceMappingURL=sakura.module.css.map */

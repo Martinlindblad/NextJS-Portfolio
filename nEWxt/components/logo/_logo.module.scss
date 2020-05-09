@@ -1,0 +1,23 @@
+.svg {
+    width: 5vw;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    .path {
+      fill: transparent;
+        stroke-dasharray: 3000;
+        stroke-dashoffset: 0;
+        animation: dash 10s ease-out;
+        background-color: transparent;
+      }
+      
+      @keyframes dash {
+        from {
+          stroke-dashoffset: 3000;
+        }
+        to {
+          stroke-dashoffset: 0;
+          fill: #FEFCD7;
+        }
+      }
+}

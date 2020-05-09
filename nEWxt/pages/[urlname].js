@@ -1,13 +1,10 @@
 import getEasywebData from "../easyweb-api";
 
-const Page = ({ data }) => {
-  console.log(data);
+
+const Page = ({ data, menu }) => {
+  console.log(data, menu);
   return (
-    <div>
-      <p>Page urlname: {data.urlname}</p>
-      <p>Id: {data.id}</p>
-      <p>{data.viewTemplate.label}</p>
-    </div>
+    <div></div>
   );
 };
 
@@ -15,8 +12,9 @@ const Page = ({ data }) => {
 export async function getServerSideProps(ctx) {
   // Simple example to illustrate token call
   //
-  var data = await getEasywebData("/load/layout");
-  return { props: { data } };
+  var data = await getEasywebData("/routes");
+  var menu = await getEasywebData("/load/layout");
+  return { props: { data, menu } };
 }
 
 export default Page;

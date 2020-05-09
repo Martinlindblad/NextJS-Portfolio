@@ -1,0 +1,44 @@
+.scroll-container {
+    position: fixed;
+    height: 30vh;
+    width: auto;
+    left: 97.5%;
+    top: 40%;
+    z-index: 100000;
+    ul {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-around;
+        border-radius: 5px;
+        list-style: none;
+        margin: 0 auto;
+        padding: 0;
+
+        a {
+            width: 10px;
+            height: 10px;
+            margin: 10px;
+            text-decoration: none;
+            background: transparent;
+            border: 1px double #FEFCD7;
+            border-radius: 50%;
+            filter: blur(1px);
+        
+            
+            &:hover {
+                filter: blur(0px);
+                background: #FEFCD7;
+                box-shadow: #FEFCD7 1px 1px 10px;
+                border: 1px double #0d444959;
+            }
+        }
+        .dot {
+            &.active {
+                filter: blur(0px);
+                border: 1px double #0d444959;
+                background: #FEFCD7;
+                box-shadow: #FEFCD7 1px 1px 10px;
+            }
+        }
+    }
+}

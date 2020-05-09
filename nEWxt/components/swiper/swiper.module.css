@@ -1,0 +1,264 @@
+.projects {
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  clear: both;
+}
+
+.projects section {
+  clear: both;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 70vh;
+  position: relative;
+}
+
+.projects section::before {
+  content: "";
+  width: 70%;
+  height: 1px;
+  position: absolute;
+  left: 15%;
+  bottom: 30%;
+  background-color: #FEFCD7;
+  opacity: 0.4;
+}
+
+.projects section .buttonContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 90%;
+  justify-self: center;
+  margin: 10px;
+}
+
+.projects section .buttonContainer a {
+  cursor: pointer;
+  text-align: center;
+  -webkit-transition: ease-out 0.2s;
+  transition: ease-out 0.2s;
+}
+
+.projects section .buttonContainer a:nth-child(1) {
+  padding-right: 20px;
+}
+
+.projects section .buttonContainer a:hover {
+  -webkit-transform: translateX(1.5px) translateY(1px) scale(1.1);
+          transform: translateX(1.5px) translateY(1px) scale(1.1);
+  -webkit-transition: ease-out 0.2s;
+  transition: ease-out 0.2s;
+}
+
+.projects section .project {
+  position: absolute;
+  width: 70%;
+  margin-top: 0;
+  top: 2%;
+  text-align: center;
+  -webkit-transition: 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.projects section .project p {
+  margin-bottom: 7%;
+  width: 100%;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.projects section .project h3 {
+  text-transform: capitalize;
+  margin: 0;
+}
+
+.projects section .project .image {
+  width: 100%;
+  position: relative;
+  bottom: 0;
+  height: auto;
+  min-height: 200px;
+  overflow: hidden;
+  margin: 10% 0;
+  background-position: center;
+  background-size: cover;
+  background-attachment: absolute;
+}
+
+.projects section .project .image::after {
+  content: "";
+  background-color: #0d444959;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0.3;
+  left: 0;
+}
+
+.projects section .project .image::before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  left: 0;
+  background-color: #0d444959;
+}
+
+.projects section .project .image button {
+  position: relative;
+  padding: 1rem 1.2rem;
+  padding-right: 0.5rem;
+  margin: 15% 0 15% auto;
+  font-size: 0.8rem;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  -webkit-transition: all 500ms cubic-bezier(0.77, 0, 0.175, 1);
+  transition: all 500ms cubic-bezier(0.77, 0, 0.175, 1);
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  color: #FEFCD7;
+  border: 1px solid;
+  background-color: transparent;
+  z-index: 100;
+}
+
+.projects section .project .image button:hover {
+  border-color: transparent;
+}
+
+.projects section .project .image button:before, .projects section .project .image button:after {
+  content: '';
+  position: absolute;
+  -webkit-transition: inherit;
+  transition: inherit;
+  z-index: -1;
+}
+
+.projects section .project .image button:hover {
+  color: #FEFCD7;
+  -webkit-transition-delay: .5s;
+          transition-delay: .5s;
+  cursor: pointer;
+}
+
+.projects section .project .image button:hover:before {
+  -webkit-transition-delay: 0s;
+          transition-delay: 0s;
+}
+
+.projects section .project .image button:hover:after {
+  background: #0d444959;
+  -webkit-transition-delay: .35s;
+          transition-delay: .35s;
+}
+
+.projects section .project .center:before {
+  top: 0;
+  left: 50%;
+  height: 100%;
+  width: 0;
+  border: 1px solid #FEFCD7;
+  border-left: 0;
+  border-right: 0;
+}
+
+.projects section .project .center:after {
+  bottom: 0;
+  left: 0;
+  height: 0;
+  width: 100%;
+  background: #FEFCD7;
+}
+
+.projects section .project .center:hover:before {
+  left: 0;
+  width: 100%;
+}
+
+.projects section .project .center:hover:after {
+  top: 0;
+  height: 100%;
+}
+
+.projects h2 {
+  width: 100%;
+  margin: 0 auto;
+  font-weight: bold;
+  padding-bottom: 100px;
+  text-transform: capitalize;
+  text-align: left;
+  position: relative;
+}
+
+.projects h2::after {
+  content: "";
+  width: 100%;
+  height: 1px;
+  position: absolute;
+  left: 0%;
+  bottom: 33%;
+  background-color: #FEFCD7;
+  opacity: 0.4;
+}
+
+.projects p {
+  font-size: 1.1rem;
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+
+.active {
+  visibility: visible;
+  opacity: 1;
+  z-index: 5;
+  -webkit-transition: ease-in 2s all;
+  transition: ease-in 2s all;
+  -webkit-transition-delay: 0.9s;
+          transition-delay: 0.9s;
+}
+
+.active div, .active p, .active h3 {
+  -webkit-transition: 1.5s ease all;
+  transition: 1.5s ease all;
+  -webkit-transform: translateX(0px) !important;
+          transform: translateX(0px) !important;
+}
+
+.deactive {
+  visibility: hidden;
+  opacity: 0;
+  z-index: -1000;
+}
+/*# sourceMappingURL=swiper.module.css.map */

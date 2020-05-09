@@ -1,0 +1,10 @@
+.recon {
+  transform: translateY(30vh);
+  width: 10px;
+  height: 10px;
+  border: red solid 1px;
+  margin: 0 auto;
+  z-index: 1000;
+  position: absolute;
+}
+/*# sourceMappingURL=helpers.css.map */

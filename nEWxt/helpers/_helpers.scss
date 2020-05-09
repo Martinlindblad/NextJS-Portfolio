@@ -1,0 +1,18 @@
+.recon-container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  max-height: 100vh;
+  .recon {
+    transform: translateY(20vh);
+    width: 10px;
+    height: 10px;
+    margin: 0 auto;
+    z-index: 1000;
+    position: absolute;
+  }
+}
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
