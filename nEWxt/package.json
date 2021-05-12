@@ -21,7 +21,7 @@
     "react-dom": "^16.13.0",
     "sass": "^1.26.3",
     "sass-loader": "^8.0.2",
-    "swiper": "^5.3.6"
+    "swiper": "^6.5.1"
   },
   "easywebSettings": {
     "clientID": "OAuth2.u2786.h251",
